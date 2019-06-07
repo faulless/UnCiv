@@ -441,6 +441,7 @@
 		Italian:"Avorio"
 		Simplified_Chinese:"象牙"
 		French:"Ivoire"
+		Spanish:"Marfil"
 	}
 
 	"Silk":{
@@ -719,6 +720,7 @@
 		Italian:"Rimuovi Strada"
 		Simplified_Chinese:"拆毁道路"
 		French:"Retirer la route"
+		Spanish:"Remover carretera"
 	}
 
 	"Railroad":{
@@ -737,6 +739,8 @@
 		Italian:"Rimuovi Ferrovia"
 		Simplified_Chinese:"拆除铁路"
 		French:"Retirer les rails"
+		Spanish:"Quitar ferrocarril"
+		
 	}
 
 	"Remove Forest":{
@@ -744,7 +748,7 @@
 		Russian:"Вырубить лес"
 		French: "Couper la forêt"
 		Romanian:"Defrișează pădurea"
-		Spanish:"Quitar bosque"
+		Spanish:"Talar bosque"//sounds better
 		Simplified_Chinese:"砍伐森林"
 		Portuguese:"Cortar floresta"
 		German:"Wald abholzen"
@@ -755,7 +759,7 @@
 		Russian:"Вырубить джунгли"
 		French: "Défricher la jungle"
 		Romanian:"Defrișează jungla"
-		Spanish:"Quitar selva"
+		Spanish:"Talar selva"//sounds better than "quitar selva" 
 		Simplified_Chinese:"砍伐丛林"
 		Portuguese:"Cortar selva"
 		German:"Dschungel abholzen"
